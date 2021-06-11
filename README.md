@@ -39,9 +39,9 @@ The following are not necessary, but are examples of things that would be nice b
 
 ## GitHub Resources
 Knowing how to use GitHub and upload your work is a requirement for CTD’s advanced classes. If you are proficient in programming fundamentals, but you don’t know how to use GitHub, you can do one of these tutorials:
-https://docs.github.com/en/github/getting-started-with-github
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-https://lab.github.com/githubtraining/introduction-to-github
+- https://docs.github.com/en/github/getting-started-with-github
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- https://lab.github.com/githubtraining/introduction-to-github
 Feel free to go through these to help learn the system. We do require your pre-work submission to be in GitHub. 
 
 Thank you, and happy coding!
